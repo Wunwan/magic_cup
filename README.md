@@ -4,7 +4,7 @@ Draw something and press **enter**. Gemini guesses what you drew, colors each pa
 way the real thing looks, and the drawing drops into a glass of water, where its color
 bleeds out.
 
-**Live:** https://your-site.vercel.app
+**Live:** https://magic-cup.vercel.app/
 
 ## How it works
 
